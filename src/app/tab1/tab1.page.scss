@@ -1,0 +1,38 @@
+.title{
+  color: black;
+  background-color: aqua;
+  font-family: i;
+  font-size: large;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.example {
+  position: relative;
+  }
+
+.example p {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.364);
+  border-color: 1px bold black;
+  height: 100%;
+  padding-top: 35%;
+  border: 1rem;
+  font-weight: 500px;
+  font-size: 4em;
+  font-family :Quicksand, sans-serif;
+  }
+
+.example img {
+  width: 100%;
+  height: 100%;
+}
+p{
+  margin-top: 5%;
+}

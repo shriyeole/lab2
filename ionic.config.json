@@ -1,0 +1,7 @@
+{
+  "name": "Museum App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
